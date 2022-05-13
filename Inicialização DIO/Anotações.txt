@@ -1,0 +1,27 @@
+**Habilidades complementares**
+
+Interferência > Sintética: Abdução e Indução > Analítica: Dedução.
+Importante raciocínio lógico, aperfeiçoamento, decomposição de um grande problema em menores, abstração (observar e avaliar individualmente).
+<u>Programa:</u> Máquina não opera sozinha, precisa de instruções.
+<u>Linguagem natural:</u> Narrativa; <u>Símbolos:</u> Fluxograma e Pseudocódigos: Portugol.
+<u>Variáveis:</u> numéricas, caracteres, alfanuméricas e lógicas.
+<u>"Atalhos":</u> concatenação, estrutura de repetição.
+<u>Matriz:</u> Variáveis do mesmo tipo; <u>Índices:</u> Variável de um vetor individual e <u>Vetores:</u> Matrizes em uma só direção.
+
+**Git e Git Hub** 
+
+Commit > Tree > Blobs = Sistema distribuido seguro.
+<u>Tracked:</u>
+Unmodified > Modified = Editar um arquivo.
+Modified > Staged = Arquivo em staged.
+Unmodified > Modified > Staged = Adicionar um arquivo.
+Staged > Modified > Unmodified = Commit.
+Unmodified > Untracked = Remover arquivo.
+
+**SCRUM**
+
+<u>Gestão de projetos:</u> Ágil > Tradicional
+<u>Papéis:</u> Product Owner (PO); Scrum Master (SM) e Time de Desenvolvimento.
+<u>Sprint:</u> Planejamento > Reuniões diárias > Revisão > Retrospectiva > Refinamento.
+<u>Backlog:</u> Tarefas > Estória > Épico = Bicicleta: Passo a passo da montagem > Peças > Sistemas.
+Complexidade x Esforço x Tempo do projeto = Planning poker/ Planning tshirt size.
