@@ -17,7 +17,8 @@ Modified > Staged = Arquivo em staged.
 Unmodified > Modified > Staged = Adicionar um arquivo.
 Staged > Modified > Unmodified = Commit.
 Unmodified > Untracked = Remover arquivo.
-
+<u>Comandos para repositório (Git bash here na pasta):</u>
+ls > git status > git add . > git status > git commit -m "adicionar..." > git push origin main.
 **SCRUM**
 
 <u>Gestão de projetos:</u> Ágil > Tradicional
